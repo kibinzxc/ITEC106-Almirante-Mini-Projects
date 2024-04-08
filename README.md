@@ -1,1 +1,1 @@
-# HCI2-Mini_Projects
+Mini Projects for HCI2
